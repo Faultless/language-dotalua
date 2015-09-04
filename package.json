@@ -1,14 +1,12 @@
 {
   "name": "language-dotalua",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "this is a port of the dota Lua package for sublime. This package is mostly about snippets. For syntax highlight, consider installing the language-lua package.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/Faultless/language-dotalua",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
